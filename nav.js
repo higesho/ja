@@ -39,7 +39,7 @@
       ['darkqueen/', 'ダーク・クイーン・オブ・クリン'], ['darksun/', 'ダークサン'], ['darksun2/', 'ダークサン２'],
       ['dungeonhack/', 'ダンジョン・ハック'], ['menzoberranzan/', 'メンゾベランザン'], ['strahd/', 'ストラドズ・ポゼッション'], ['shadowsorcerer/', 'シャドウ・ソーサラー'],
       ['dragonsofflame/', 'ドラゴンズ・オブ・フレイム'], ['heroesofthelance/', 'ヒーローズ・オブ・ザ・ランス'],
-      ['warofthelance/', 'ウォー・オブ・ザ・ランス']] },
+      ['warofthelance/', 'ウォー・オブ・ザ・ランス'], ['dragonshard/', 'ドラゴンシャード']] },
     { name: 'ウィザードリィ', label: 'ウィザードリィ シリーズ', base: G + 'wiz-ja/', repo: 'wiz-ja', titles: [
       ['wiz6/', 'ウィザードリィ6'], ['wiz7/', 'ウィザードリィ7'], ['wiz8/', 'ウィザードリィ8']] },
     { name: 'ランズ・オブ・ロア', label: 'ランズ・オブ・ロア シリーズ', base: G + 'lol-ja/', repo: 'lol-ja', titles: [
