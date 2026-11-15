@@ -37,7 +37,7 @@
       ['treasures/', 'トレジャーズ・オブ・ザ・サヴェッジ・フロンティア'], ['hillsfar/', 'ヒルズファー'],
       ['champions/', 'チャンピオンズ・オブ・クリン'], ['deathknights/', 'デス・ナイツ・オブ・クリン'],
       ['darkqueen/', 'ダーク・クイーン・オブ・クリン'], ['darksun/', 'ダークサン'], ['darksun2/', 'ダークサン２'],
-      ['dungeonhack/', 'ダンジョン・ハック'], ['menzoberranzan/', 'メンゾベランザン'], ['shadowsorcerer/', 'シャドウ・ソーサラー'],
+      ['dungeonhack/', 'ダンジョン・ハック'], ['menzoberranzan/', 'メンゾベランザン'], ['strahd/', 'ストラドズ・ポゼッション'], ['shadowsorcerer/', 'シャドウ・ソーサラー'],
       ['dragonsofflame/', 'ドラゴンズ・オブ・フレイム'], ['heroesofthelance/', 'ヒーローズ・オブ・ザ・ランス'],
       ['warofthelance/', 'ウォー・オブ・ザ・ランス']] },
     { name: 'ウィザードリィ', label: 'ウィザードリィ シリーズ', base: G + 'wiz-ja/', repo: 'wiz-ja', titles: [
