@@ -56,6 +56,7 @@
 
   /* 単体の作品: pages はそのサイトの中のページ（あれば） */
   var SINGLES = [
+    { name: 'アルカナム', base: G + 'arcanum-ja/', repo: 'arcanum-ja' },
     { name: 'ダンジョンロード', base: G + 'dungeonlords-ja/', repo: 'dungeonlords-ja' },
     { name: 'ウィザーズ＆ウォーリアーズ', base: G + 'wizards-warriors-ja/', repo: 'wizards-warriors-ja' },
     { name: 'グリモア', base: G + 'grimoire-ja/', repo: 'grimoire-ja',
