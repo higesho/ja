@@ -44,8 +44,8 @@
       ['wiz6/', 'ウィザードリィ6'], ['wiz7/', 'ウィザードリィ7'], ['wiz8/', 'ウィザードリィ8']] },
     { name: 'ランズ・オブ・ロア', label: 'ランズ・オブ・ロア シリーズ', base: G + 'lol-ja/', repo: 'lol-ja', titles: [
       ['lol1/', '第1作'], ['lol2/', '第2作'], ['lol3/', '第3作']] },
-    { name: 'アルカニア', label: 'アルカニア（ダーク・アイ）', base: G + 'arkania-ja/', repo: 'arkania-ja', titles: [
-      ['roa1/', '運命の剣'], ['roa2/', 'スタートレイル'], [G + 'drakensang-jp/', 'ドラケンサング', 'drakensang-jp']] },
+    { name: 'アルカニア', label: 'レルムズ・オブ・アルカニア シリーズ', base: G + 'arkania-ja/', repo: 'arkania-ja', titles: [
+      ['roa1/', '運命の剣'], ['roa2/', 'スタートレイル']] },
     { name: 'アヴァーナム・アヴァドン', label: 'スパイダーウェブ作品', base: G + 'spiderweb-ja/', repo: 'spiderweb-ja', titles: [
       [G + 'avernum-efp-jp/', 'アヴァーナム', 'avernum-efp-jp'], [G + 'avernum2-cs-jp/', 'アヴァーナム2', 'avernum2-cs-jp'],
       [G + 'avernum3-rw-jp/', 'アヴァーナム3', 'avernum3-rw-jp'], [G + 'avernum4-jp/', 'アヴァーナム4', 'avernum4-jp'],
@@ -62,6 +62,7 @@
       pages: [['', '日本語化パッチ'], ['wiki/', 'Wiki 翻訳'], ['wiki/all.html', '記事一覧']] },
     { name: 'デスロード・リローデッド', base: G + 'deathlord-relorded-jp/', repo: 'deathlord-relorded-jp',
       pages: [['', '日本語化パッチ'], ['guide.html', '遊び方ガイド']] },
+    { name: 'ドラケンサング', base: G + 'drakensang-jp/', repo: 'drakensang-jp' },
     { name: '9th Dawn II', base: G + '9thDawnII-jpfix/', repo: '9thDawnII-jpfix' },
     { name: 'ドワーフ・フォートレス', base: G + 'df-ja/', repo: 'df-ja' }
   ];
