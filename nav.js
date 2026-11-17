@@ -51,7 +51,10 @@
       [G + 'avernum3-rw-jp/', 'アヴァーナム3', 'avernum3-rw-jp'], [G + 'avernum4-jp/', 'アヴァーナム4', 'avernum4-jp'],
       [G + 'avernum5-jp/', 'アヴァーナム5', 'avernum5-jp'], [G + 'avernum6-jp/', 'アヴァーナム6', 'avernum6-jp'],
       [G + 'avadon-tbf-jp/', 'アヴァドン', 'avadon-tbf-jp'], [G + 'avadon2-jp/', 'アヴァドン2', 'avadon2-jp'],
-      [G + 'avadon3-tw-jp/', 'アヴァドン3', 'avadon3-tw-jp']] }
+      [G + 'avadon3-tw-jp/', 'アヴァドン3', 'avadon3-tw-jp']] },
+    { name: '9th Dawn', label: '9th Dawn シリーズ', base: G + '9thdawn-ja/', repo: '9thdawn-ja', titles: [
+      [G + '9thDawnClassic-jpfix/', '9th Dawn Classic', '9thDawnClassic-jpfix'], [G + '9thDawnII-jpfix/', '9th Dawn II', '9thDawnII-jpfix'],
+      [G + '9thDawnIII-jpfix/', '9th Dawn III', '9thDawnIII-jpfix']] }
   ];
 
   /* 単体の作品: pages はそのサイトの中のページ（あれば） */
@@ -64,7 +67,6 @@
     { name: 'デスロード・リローデッド', base: G + 'deathlord-relorded-jp/', repo: 'deathlord-relorded-jp',
       pages: [['', '日本語化パッチ'], ['guide.html', '遊び方ガイド']] },
     { name: 'ドラケンサング', base: G + 'drakensang-jp/', repo: 'drakensang-jp' },
-    { name: '9th Dawn II', base: G + '9thDawnII-jpfix/', repo: '9thDawnII-jpfix' },
     { name: 'ドワーフ・フォートレス', base: G + 'df-ja/', repo: 'df-ja' }
   ];
 
