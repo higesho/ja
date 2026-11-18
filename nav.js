@@ -45,8 +45,7 @@
     { name: 'ランズ・オブ・ロア', label: 'ランズ・オブ・ロア シリーズ', base: G + 'lol-ja/', repo: 'lol-ja', titles: [
       ['lol1/', '第1作'], ['lol2/', '第2作'], ['lol3/', '第3作']] },
     { name: 'エルダースクロールズ', label: 'エルダースクロールズ シリーズ', base: G + 'tes-ja/', repo: 'tes-ja', titles: [
-      ['arena/', 'アリーナ']] },
-    // ダガーフォールはページができたら ['daggerfall/', 'ダガーフォール'] を titles に足す
+      ['arena/', 'アリーナ'], ['daggerfall/', 'ダガーフォール']] },
     { name: 'アルカニア', label: 'レルムズ・オブ・アルカニア シリーズ', base: G + 'arkania-ja/', repo: 'arkania-ja', titles: [
       ['roa1/', '運命の剣'], ['roa2/', 'スタートレイル']] },
     { name: 'アヴァーナム・アヴァドン', label: 'スパイダーウェブ作品', base: G + 'spiderweb-ja/', repo: 'spiderweb-ja', titles: [
