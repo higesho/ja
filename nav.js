@@ -56,7 +56,9 @@
       [G + 'avadon3-tw-jp/', 'アヴァドン3', 'avadon3-tw-jp']] },
     { name: '9th Dawn', label: '9th Dawn シリーズ', base: G + '9thdawn-ja/', repo: '9thdawn-ja', titles: [
       [G + '9thDawnClassic-jpfix/', '9th Dawn Classic', '9thDawnClassic-jpfix'], [G + '9thDawnII-jpfix/', '9th Dawn II', '9thDawnII-jpfix'],
-      [G + '9thDawnIII-jpfix/', '9th Dawn III', '9thDawnIII-jpfix']] }
+      [G + '9thDawnIII-jpfix/', '9th Dawn III', '9thDawnIII-jpfix']] },
+    { name: 'X-COM', label: 'X-COM シリーズ', base: G + 'xcom-ja/', repo: 'xcom-ja', titles: [
+      ['ufo/', 'UFO ディフェンス']] }
   ];
 
   /* 単体の作品: pages はそのサイトの中のページ（あれば） */
@@ -70,8 +72,7 @@
     { name: 'デスロード・リローデッド', base: G + 'deathlord-relorded-jp/', repo: 'deathlord-relorded-jp',
       pages: [['', '日本語化パッチ'], ['guide.html', '遊び方ガイド']] },
     { name: 'ドラケンサング', base: G + 'drakensang-jp/', repo: 'drakensang-jp' },
-    { name: 'ドワーフ・フォートレス', base: G + 'df-ja/', repo: 'df-ja' },
-    { name: 'X-COM', base: G + 'xcom-ja/', repo: 'xcom-ja' }
+    { name: 'ドワーフ・フォートレス', base: G + 'df-ja/', repo: 'df-ja' }
   ];
 
   function abs(base, u) { return /^https?:/.test(u) ? u : base + u; }
