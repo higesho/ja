@@ -65,7 +65,6 @@
   var SINGLES = [
     { name: 'アルカナム', base: G + 'arcanum-ja/', repo: 'arcanum-ja' },
     { name: 'ディヴァイン・ディヴィニティ', base: G + 'divinedivinity-ja/', repo: 'divinedivinity-ja' },
-    { name: 'エリート・デンジャラス', base: G + 'elitedangerous-ja/', repo: 'elitedangerous-ja' },
     { name: 'ダンジョンロード', base: G + 'dungeonlords-ja/', repo: 'dungeonlords-ja' },
     { name: 'ウィザーズ＆ウォーリアーズ', base: G + 'wizards-warriors-ja/', repo: 'wizards-warriors-ja' },
     { name: 'グリモア', base: G + 'grimoire-ja/', repo: 'grimoire-ja',
