@@ -58,7 +58,9 @@
       [G + '9thDawnClassic-jpfix/', '9th Dawn Classic', '9thDawnClassic-jpfix'], [G + '9thDawnII-jpfix/', '9th Dawn II', '9thDawnII-jpfix'],
       [G + '9thDawnIII-jpfix/', '9th Dawn III', '9thDawnIII-jpfix']] },
     { name: 'X-COM', label: 'X-COM シリーズ', base: G + 'xcom-ja/', repo: 'xcom-ja', titles: [
-      ['ufo/', 'UFO ディフェンス'], ['tftd/', 'テラー・フロム・ザ・ディープ'], ['apoc/', 'アポカリプス'], ['interceptor/', 'インターセプター'], ['enforcer/', 'エンフォーサー']] }
+      ['ufo/', 'UFO ディフェンス'], ['tftd/', 'テラー・フロム・ザ・ディープ'], ['apoc/', 'アポカリプス'], ['interceptor/', 'インターセプター'], ['enforcer/', 'エンフォーサー']] },
+    { name: 'バック・トゥ・ザ・フューチャー', label: 'バック・トゥ・ザ・フューチャー ザ・ゲーム', base: G + 'bttf-ja/', repo: 'bttf-ja', titles: [
+      ['ep1/', 'エピソード1']] }
   ];
 
   /* 単体の作品: pages はそのサイトの中のページ（あれば） */
