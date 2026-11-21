@@ -60,7 +60,9 @@
     { name: 'X-COM', label: 'X-COM シリーズ', base: G + 'xcom-ja/', repo: 'xcom-ja', titles: [
       ['ufo/', 'UFO ディフェンス'], ['tftd/', 'テラー・フロム・ザ・ディープ'], ['apoc/', 'アポカリプス'], ['interceptor/', 'インターセプター'], ['enforcer/', 'エンフォーサー']] },
     { name: 'バック・トゥ・ザ・フューチャー', label: 'バック・トゥ・ザ・フューチャー ザ・ゲーム', base: G + 'bttf-ja/', repo: 'bttf-ja', titles: [
-      ['ep1/', 'エピソード1'], ['ep2/', 'エピソード2'], ['ep3/', 'エピソード3'], ['ep4/', 'エピソード4'], ['ep5/', 'エピソード5']] }
+      ['ep1/', 'エピソード1'], ['ep2/', 'エピソード2'], ['ep3/', 'エピソード3'], ['ep4/', 'エピソード4'], ['ep5/', 'エピソード5']] },
+    { name: 'ウェイストランド', label: 'ウェイストランド シリーズ', base: G + 'wasteland-series-ja/', repo: 'wasteland-series-ja', titles: [
+      [G + 'wasteland-ja/', 'ウェイストランド', 'wasteland-ja'], [G + 'wasteland2-ja/', 'ウェイストランド2', 'wasteland2-ja']] }
   ];
 
   /* 単体の作品: pages はそのサイトの中のページ（あれば） */
@@ -68,8 +70,6 @@
     { name: 'アルカナム', base: G + 'arcanum-ja/', repo: 'arcanum-ja' },
     { name: 'ディヴァイン・ディヴィニティ', base: G + 'divinedivinity-ja/', repo: 'divinedivinity-ja' },
     { name: 'バーズテイル三部作', base: G + 'bardstale-ja/', repo: 'bardstale-ja' },
-    { name: 'ウェイストランド', base: G + 'wasteland-ja/', repo: 'wasteland-ja' },
-    { name: 'ウェイストランド2', base: G + 'wasteland2-ja/', repo: 'wasteland2-ja' },
     { name: 'ダンジョンロード', base: G + 'dungeonlords-ja/', repo: 'dungeonlords-ja' },
     { name: 'ウィザーズ＆ウォーリアーズ', base: G + 'wizards-warriors-ja/', repo: 'wizards-warriors-ja' },
     { name: 'グリモア', base: G + 'grimoire-ja/', repo: 'grimoire-ja',
