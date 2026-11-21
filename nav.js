@@ -69,6 +69,7 @@
     { name: 'ディヴァイン・ディヴィニティ', base: G + 'divinedivinity-ja/', repo: 'divinedivinity-ja' },
     { name: 'バーズテイル三部作', base: G + 'bardstale-ja/', repo: 'bardstale-ja' },
     { name: 'ウェイストランド', base: G + 'wasteland-ja/', repo: 'wasteland-ja' },
+    { name: 'ウェイストランド2', base: G + 'wasteland2-ja/', repo: 'wasteland2-ja' },
     { name: 'ダンジョンロード', base: G + 'dungeonlords-ja/', repo: 'dungeonlords-ja' },
     { name: 'ウィザーズ＆ウォーリアーズ', base: G + 'wizards-warriors-ja/', repo: 'wizards-warriors-ja' },
     { name: 'グリモア', base: G + 'grimoire-ja/', repo: 'grimoire-ja',
