@@ -63,7 +63,9 @@
       ['ep1/', 'エピソード1'], ['ep2/', 'エピソード2'], ['ep3/', 'エピソード3'], ['ep4/', 'エピソード4'], ['ep5/', 'エピソード5']] },
     { name: 'ウェイストランド', label: 'ウェイストランド シリーズ', base: G + 'wasteland-series-ja/', repo: 'wasteland-series-ja', titles: [
       [G + 'wasteland-ja/', 'ウェイストランド', 'wasteland-ja'], [G + 'wasteland2-ja/', 'ウェイストランド2', 'wasteland2-ja'],
-      [G + 'wasteland3-ja/', 'ウェイストランド3', 'wasteland3-ja']] }
+      [G + 'wasteland3-ja/', 'ウェイストランド3', 'wasteland3-ja']] },
+    { name: 'ファンタジー', label: 'ファンタジー三部作', base: G + 'phantasie-ja/', repo: 'phantasie-ja', titles: [
+      ['phantasie1/', 'ファンタジー'], ['phantasie2/', 'ファンタジーII'], ['phantasie3/', 'ファンタジーIII']] }
   ];
 
   /* 単体の作品: pages はそのサイトの中のページ（あれば） */
