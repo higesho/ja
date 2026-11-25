@@ -65,7 +65,9 @@
       [G + 'wasteland-ja/', 'ウェイストランド', 'wasteland-ja'], [G + 'wasteland2-ja/', 'ウェイストランド2', 'wasteland2-ja'],
       [G + 'wasteland3-ja/', 'ウェイストランド3', 'wasteland3-ja']] },
     { name: 'ファンタジー', label: 'ファンタジー三部作', base: G + 'phantasie-ja/', repo: 'phantasie-ja', titles: [
-      ['phantasie1/', 'ファンタジー'], ['phantasie2/', 'ファンタジーII'], ['phantasie3/', 'ファンタジーIII']] }
+      ['phantasie1/', 'ファンタジー'], ['phantasie2/', 'ファンタジーII'], ['phantasie3/', 'ファンタジーIII']] },
+    { name: 'LEGO', label: 'LEGO シリーズ', base: G + 'lego-ja/', repo: 'lego-ja', titles: [
+      ['lotr/', 'ロード・オブ・ザ・リング']] }
   ];
 
   /* 単体の作品: pages はそのサイトの中のページ（あれば） */
