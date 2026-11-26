@@ -67,7 +67,8 @@
     { name: 'ファンタジー', label: 'ファンタジー三部作', base: G + 'phantasie-ja/', repo: 'phantasie-ja', titles: [
       ['phantasie1/', 'ファンタジー'], ['phantasie2/', 'ファンタジーII'], ['phantasie3/', 'ファンタジーIII']] },
     { name: 'LEGO', label: 'LEGO シリーズ', base: G + 'lego-ja/', repo: 'lego-ja', titles: [
-      ['lotr/', 'ロード・オブ・ザ・リング']] }
+      ['lotr/', 'ロード・オブ・ザ・リング'], ['hp1/', 'ハリー・ポッター 第1章-4章'], ['hp2/', 'ハリー・ポッター 第5章-7章'],
+      ['sw/', 'スター・ウォーズ コンプリート サーガ'], ['marvel/', 'マーベル スーパー・ヒーローズ']] }
   ];
 
   /* 単体の作品: pages はそのサイトの中のページ（あれば） */
