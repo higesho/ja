@@ -86,7 +86,8 @@
     { name: 'デスロード・リローデッド', base: G + 'deathlord-relorded-jp/', repo: 'deathlord-relorded-jp',
       pages: [['', '日本語化パッチ'], ['guide.html', '遊び方ガイド']] },
     { name: 'ドラケンサング', base: G + 'drakensang-jp/', repo: 'drakensang-jp' },
-    { name: 'ドワーフ・フォートレス', base: G + 'df-ja/', repo: 'df-ja' }
+    { name: 'ドワーフ・フォートレス', base: G + 'df-ja/', repo: 'df-ja' },
+    { name: 'リターン・トゥ・カオス', base: G + 'returntochaos-ja/', repo: 'returntochaos-ja' }
   ];
 
   function abs(base, u) { return /^https?:/.test(u) ? u : base + u; }
