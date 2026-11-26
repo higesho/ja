@@ -48,12 +48,12 @@
       ['arena/', 'アリーナ'], ['daggerfall/', 'ダガーフォール']] },
     { name: 'アルカニア', label: 'レルムズ・オブ・アルカニア シリーズ', base: G + 'arkania-ja/', repo: 'arkania-ja', titles: [
       ['roa1/', '運命の剣'], ['roa2/', 'スタートレイル']] },
-    { name: 'アヴァーナム・アヴァドン', label: 'スパイダーウェブ作品', base: G + 'spiderweb-ja/', repo: 'spiderweb-ja', titles: [
+    { name: 'スパイダーウェブ', label: 'スパイダーウェブ作品', base: G + 'spiderweb-ja/', repo: 'spiderweb-ja', titles: [
       [G + 'avernum-efp-jp/', 'アヴァーナム', 'avernum-efp-jp'], [G + 'avernum2-cs-jp/', 'アヴァーナム2', 'avernum2-cs-jp'],
       [G + 'avernum3-rw-jp/', 'アヴァーナム3', 'avernum3-rw-jp'], [G + 'avernum4-jp/', 'アヴァーナム4', 'avernum4-jp'],
       [G + 'avernum5-jp/', 'アヴァーナム5', 'avernum5-jp'], [G + 'avernum6-jp/', 'アヴァーナム6', 'avernum6-jp'],
       [G + 'avadon-tbf-jp/', 'アヴァドン', 'avadon-tbf-jp'], [G + 'avadon2-jp/', 'アヴァドン2', 'avadon2-jp'],
-      [G + 'avadon3-tw-jp/', 'アヴァドン3', 'avadon3-tw-jp']] },
+      [G + 'avadon3-tw-jp/', 'アヴァドン3', 'avadon3-tw-jp'], [G + 'geneforge1-jp/', 'ジーンフォージ1', 'geneforge1-jp']] },
     { name: '9th Dawn', label: '9th Dawn シリーズ', base: G + '9thdawn-ja/', repo: '9thdawn-ja', titles: [
       [G + '9thDawnClassic-jpfix/', '9th Dawn Classic', '9thDawnClassic-jpfix'], [G + '9thDawnII-jpfix/', '9th Dawn II', '9thDawnII-jpfix'],
       [G + '9thDawnIII-jpfix/', '9th Dawn III', '9thDawnIII-jpfix']] },
