@@ -90,7 +90,8 @@
       pages: [['', '日本語化パッチ'], ['guide.html', '遊び方ガイド']] },
     { name: 'ドラケンサング', base: G + 'drakensang-jp/', repo: 'drakensang-jp' },
     { name: 'ドワーフ・フォートレス', base: G + 'df-ja/', repo: 'df-ja' },
-    { name: 'リターン・トゥ・カオス', base: G + 'returntochaos-ja/', repo: 'returntochaos-ja' }
+    { name: 'リターン・トゥ・カオス', base: G + 'returntochaos-ja/', repo: 'returntochaos-ja' },
+    { name: 'ダンジョンズ・オブ・ドレッドモア', base: G + 'dredmor-ja/', repo: 'dredmor-ja' }
   ];
 
   function abs(base, u) { return /^https?:/.test(u) ? u : base + u; }
