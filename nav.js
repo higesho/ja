@@ -81,6 +81,7 @@
     { name: 'バーズテイル三部作', base: G + 'bardstale-ja/', repo: 'bardstale-ja' },
     { name: 'ダンジョンロード', base: G + 'dungeonlords-ja/', repo: 'dungeonlords-ja' },
     { name: 'ウィザーズ＆ウォーリアーズ', base: G + 'wizards-warriors-ja/', repo: 'wizards-warriors-ja' },
+    { name: 'アルビオン', base: G + 'albion-ja/', repo: 'albion-ja' },
     { name: 'グリモア', base: G + 'grimoire-ja/', repo: 'grimoire-ja',
       pages: [['', '日本語化パッチ'], ['wiki/', 'Wiki 翻訳'], ['wiki/all.html', '記事一覧']] },
     { name: 'デスロード・リローデッド', base: G + 'deathlord-relorded-jp/', repo: 'deathlord-relorded-jp',
