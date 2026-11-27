@@ -44,6 +44,8 @@
       ['wiz6/', 'ウィザードリィ6'], ['wiz7/', 'ウィザードリィ7'], ['wiz8/', 'ウィザードリィ8']] },
     { name: 'ランズ・オブ・ロア', label: 'ランズ・オブ・ロア シリーズ', base: G + 'lol-ja/', repo: 'lol-ja', titles: [
       ['lol1/', '第1作'], ['lol2/', '第2作'], ['lol3/', '第3作']] },
+    { name: 'キングズ・クエスト', label: 'キングズ・クエスト シリーズ', base: G + 'kq-ja/', repo: 'kq-ja', titles: [
+      ['kq1/', '第1作'], ['kq2/', '第2作'], ['kq3/', '第3作'], ['kq4/', '第4作']] },
     { name: 'エルダースクロールズ', label: 'エルダースクロールズ シリーズ', base: G + 'tes-ja/', repo: 'tes-ja', titles: [
       ['arena/', 'アリーナ'], ['daggerfall/', 'ダガーフォール']] },
     { name: 'アルカニア', label: 'レルムズ・オブ・アルカニア シリーズ', base: G + 'arkania-ja/', repo: 'arkania-ja', titles: [
