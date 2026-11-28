@@ -77,7 +77,7 @@
     { name: 'ウルフェンシュタイン', label: 'ウルフェンシュタイン シリーズ', base: G + 'wolfenstein-ja/', repo: 'wolfenstein-ja', titles: [
       ['rtcw/', 'リターン・トゥ・キャッスル・ウルフェンシュタイン'], ['realrtcw/', 'RealRTCW']] },
     { name: 'マスター・オブ・オリオン', label: 'マスター・オブ・オリオン シリーズ', base: G + 'moo-ja/', repo: 'moo-ja', titles: [
-      ['moo1/', 'マスター・オブ・オリオン']] }
+      ['moo1/', 'マスター・オブ・オリオン'], ['moo2/', 'マスター・オブ・オリオン2']] }
   ];
 
   /* 単体の作品: pages はそのサイトの中のページ（あれば） */
