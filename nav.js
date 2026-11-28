@@ -46,6 +46,8 @@
       ['lol1/', '第1作'], ['lol2/', '第2作'], ['lol3/', '第3作']] },
     { name: 'キングズ・クエスト', label: 'キングズ・クエスト シリーズ', base: G + 'kq-ja/', repo: 'kq-ja', titles: [
       ['kq1/', '第1作'], ['kq2/', '第2作'], ['kq3/', '第3作'], ['kq4/', '第4作'], ['kq5/', '第5作'], ['kq6/', '第6作'], ['kq7/', '第7作'], ['kq8/', '第8作']] },
+    { name: 'アローン・イン・ザ・ダーク', label: 'アローン・イン・ザ・ダーク シリーズ', base: G + 'aitd-ja/', repo: 'aitd-ja', titles: [
+      ['aitd1/', '第1作']] },
     { name: 'エルダースクロールズ', label: 'エルダースクロールズ シリーズ', base: G + 'tes-ja/', repo: 'tes-ja', titles: [
       ['arena/', 'アリーナ'], ['daggerfall/', 'ダガーフォール']] },
     { name: 'アルカニア', label: 'レルムズ・オブ・アルカニア シリーズ', base: G + 'arkania-ja/', repo: 'arkania-ja', titles: [
